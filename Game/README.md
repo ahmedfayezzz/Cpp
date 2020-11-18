@@ -4,9 +4,9 @@
 - Enemy missile launchers
 - Enemy soldiers
 
-![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%201)
-![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%202)
-![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%203)
-![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%204)
-![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%205)
+![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%201.png)
+![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%202.png)
+![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%203.png)
+![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%204.png)
+![SnapShot](https://github.com/ahmedfayezzz/Cpp/blob/main/Game/images/Screenshot%205.png)
 
